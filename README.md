@@ -82,9 +82,9 @@ DB_NAME=todo_app
 JWT_SECRET=
 ```
 
-> MySQL'de veritabanını oluştur:
+> MySQL'de veritabanını kur:
 ```sql
-CREATE DATABASE todo_app;
+todo_app.sql kurunuz
 ```
 
 Sunucuyu başlat:
@@ -100,8 +100,6 @@ cd ../frontend
 npm install
 npm run dev
 ```
-
-> React app çalışır: `http://localhost:3000`
 
 ---
 
