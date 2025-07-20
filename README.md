@@ -1,4 +1,4 @@
-# 🧠 Full-Stack Todo App (React + Node.js + MySQL + JWT)
+# Full-Stack Todo App (React + Node.js + MySQL + JWT)
 
 Bu proje, modern web teknolojileriyle oluşturulmuş bir **todo uygulaması**.  
 Kullanıcılar kayıt olabilir, giriş yapabilir, görevlerini oluşturabilir, tamamlayabilir veya silebilir.  
@@ -6,7 +6,7 @@ Veriler **MySQL** üzerinde saklanır, oturum yönetimi için **JWT** tabanlı k
 
 ---
 
-## 🚀 Özellikler
+## Özellikler
 
 - ✅ Kullanıcı kaydı & giriş (JWT ile)
 - ✅ Görev ekleme, silme, güncelleme
@@ -18,7 +18,7 @@ Veriler **MySQL** üzerinde saklanır, oturum yönetimi için **JWT** tabanlı k
 
 ---
 
-## 🛠️ Teknolojiler
+## Teknolojiler
 
 | Katman    | Teknoloji                     |
 |-----------|-------------------------------|
@@ -29,7 +29,7 @@ Veriler **MySQL** üzerinde saklanır, oturum yönetimi için **JWT** tabanlı k
 
 ---
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 todo-app/
@@ -54,7 +54,7 @@ todo-app/
 
 ---
 
-## ⚙️ Kurulum
+## Kurulum
 
 ### 1. Repo'yu Klonla
 
@@ -103,7 +103,7 @@ npm run dev
 
 ---
 
-## 🧪 API Endpoint'leri
+## API Endpoint'leri
 
 | Metot | Endpoint           | Açıklama               |
 |-------|--------------------|------------------------|
@@ -116,7 +116,7 @@ npm run dev
 
 ---
 
-## 🔐 Güvenlik
+## Güvenlik
 
 - Parolalar `bcrypt` ile hash'lenir
 - Kimlik doğrulama JWT ile sağlanır
@@ -124,6 +124,6 @@ npm run dev
 
 ---
 
-## 📄 Lisans
+## Lisans
 
 MIT Lisansı
